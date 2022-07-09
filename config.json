@@ -1,8 +1,8 @@
 {
-    "botToken": "TOKEN-HERE",
-    "prefix": "*",
+    "botToken": "bot-token",
+	"prefix": "*",
     "command_name": "start",
     
     "give_role": false,
-    "role_name": "ROLE-NAME-HERE"
+    "role_name": "role-name"
 }
